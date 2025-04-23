@@ -1,0 +1,40 @@
+_repo: The-great-beach_75895
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grose, David
+    birthdate: 1922
+    deathdate: 2016
+    gutenberg_agent_id: '58203'
+    url: http://www.gutenberg.org/2009/agents/58203
+creator:
+  author:
+    agent_name: Hay, John
+    birthdate: 1915
+    deathdate: 2011
+    gutenberg_agent_id: '58207'
+    url: http://www.gutenberg.org/2009/agents/58207
+description: ''
+edition_note: First edition
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75895'
+  lccn: '63018198'
+language: en
+pgterms:marc905: 20241111055603hay
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGarden City, New York :$bDoubleday & Company, Inc., $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape Cod (Mass.) -- Description and travel'
+- !lcsh 'Natural history -- Massachusetts -- Cape Cod'
+- !lcc 'F001'
+- !lcc 'QH'
+- GITenberg
+title: The great beach
+url: http://www.gutenberg.org/ebooks/75895
